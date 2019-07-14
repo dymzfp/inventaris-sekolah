@@ -3,4 +3,6 @@
 
 ### Tugas Uji Keterampilan Sekolah SMK 
 
-#### move to localhost and open in local url http://localhost/sisinven
+#### dibuat dengan PHP native versi 7
+
+#### move to htdocs and open in local url http://localhost/sisinven
